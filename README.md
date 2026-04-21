@@ -2,7 +2,7 @@
 
 > Open survey & whitepaper — AI-delegable tasks in Chilean aquaculture veterinary practice
 
-Esta encuesta busca mapear qué tareas consumen el tiempo y la energía de los veterinarios acuícolas en Chile, y cuáles de ellas podrían —o no— delegarse a herramientas de IA. Los resultados se publicarán como whitepaper abierto, compartido con MEVEA y COLMEVET.
+Esta encuesta busca mapear qué tareas consumen el tiempo y la energía de los veterinarios acuícolas en Chile, y cuáles de ellas podrían —o no— delegarse a herramientas de IA. Los resultados se publicarán como whitepaper abierto.
 
 ## Estado actual
 
