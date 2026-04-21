@@ -13,7 +13,7 @@ Esta encuesta busca mapear qué tareas consumen el tiempo y la energía de los v
 | Idioma | Enlace |
 |---|---|
 | Español (Chile) | [tally.so/r/q4EQX9](https://tally.so/r/q4EQX9) |
-| English | _próximamente_ |
+| English | [tally.so/r/obVLdb](https://tally.so/r/obVLdb) |
 
 La encuesta toma 8–10 minutos, es anónima y no recolecta datos identificatorios.
 
