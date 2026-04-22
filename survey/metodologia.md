@@ -2,11 +2,11 @@
 
 ## Objetivo
 
-Identificar qué tareas del trabajo diario de los veterinarios acuícolas chilenos consumen más tiempo, cuáles consideran de bajo valor profesional, y cuáles serían candidatas a delegarse a herramientas de IA generativa. Los resultados alimentarán un whitepaper abierto para MEVEA y COLMEVET.
+Identificar qué tareas del trabajo diario de los veterinarios acuícolas consumen más tiempo, cuáles consideran de bajo valor profesional, y cuáles serían candidatas a delegarse a herramientas de IA generativa. Los resultados alimentarán un whitepaper abierto.
 
 ## Diseño
 
-Encuesta autoadministrada en línea (Tally), distribuida por conveniencia a través de redes profesionales (MEVEA, COLMEVET, LinkedIn). Sin muestreo probabilístico.
+Encuesta autoadministrada en línea (Tally), distribuida por conveniencia a través de redes profesionales (MEVEA, COLMEVET, LinkedIn, etc.). Sin muestreo probabilístico.
 
 **Duración estimada:** 8–10 minutos.
 
@@ -25,7 +25,7 @@ Encuesta autoadministrada en línea (Tally), distribuida por conveniencia a trav
 
 ## Criterio de inclusión
 
-Médicos veterinarios con actividad profesional activa en acuicultura chilena (salmonicultura, mitilicultura, etc.) al momento de responder.
+Médicos veterinarios con actividad profesional activa en acuicultura (salmonicultura, mitilicultura, etc.) al momento de responder.
 
 ## Idiomas
 
@@ -41,7 +41,7 @@ Médicos veterinarios con actividad profesional activa en acuicultura chilena (s
 
 ## Limitaciones
 
-- **Muestra no probabilística:** los resultados no son estadísticamente generalizables al universo de veterinarios acuícolas chilenos.
+- **Muestra no probabilística:** los resultados no son estadísticamente generalizables al universo de veterinarios acuícolas.
 - **Sesgo de autoselección:** participan quienes tienen interés en el tema o exposición a las redes de distribución.
 - **Autoreporte:** las horas semanales por tarea son estimaciones subjetivas, no mediciones objetivas.
 - **Heterogeneidad de roles:** la encuesta cubre desde veterinarios de terreno hasta académicos; las comparaciones entre grupos deben interpretarse con cautela.
@@ -57,5 +57,6 @@ Esta encuesta no constituye investigación biomédica en seres humanos bajo la d
 
 ## Contacto
 
-Agustín Piña · Médico Veterinario, Universidad de Chile  
-LinkedIn: [agustinpina](https://www.linkedin.com/in/agustinpina)
+Agustín Piña Elgueda· Médico Veterinario  
+LinkedIn: [agustnp-ina](www.linkedin.com/in/agustn-pina)
+github: [agustinpina](https://github.com/agustinpina) 
