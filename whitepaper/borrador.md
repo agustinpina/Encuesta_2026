@@ -1,4 +1,4 @@
-# El trabajo sucio del veterinario acuícola chileno: tareas delegables a IA
+# El "trabajo sucio" del veterinario acuícola: tareas delegables a IA #titulo work in progress 
 
 **Agustín Piña Elgueda** · Médico Veterinario · 2026
 
