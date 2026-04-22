@@ -1,6 +1,6 @@
 # El trabajo sucio del veterinario acuícola chileno: tareas delegables a IA
 
-**Agustín Piña** · Médico Veterinario, Universidad de Chile · 2026
+**Agustín Piña Elgueda** · Médico Veterinario · 2026
 
 ---
 
@@ -8,7 +8,7 @@
 
 _Por completar tras análisis._
 
-Breve descripción del objetivo, método, hallazgos principales e implicancias para la adopción de IA en la práctica veterinaria acuícola chilena.
+Breve descripción del objetivo, método, hallazgos principales e implicancias para la adopción de IA en la práctica veterinaria acuícola.
 
 ---
 
@@ -16,7 +16,7 @@ Breve descripción del objetivo, método, hallazgos principales e implicancias p
 
 La práctica veterinaria en acuicultura combina trabajo de terreno intensivo con una carga administrativa y regulatoria creciente. El surgimiento de herramientas de IA generativa plantea preguntas concretas: ¿qué tareas podrían delegarse? ¿cuáles no deberían delegarse? ¿cuánto tiempo y dinero está en juego?
 
-Este whitepaper reporta los resultados de una encuesta autoadministrada aplicada a veterinarios acuícolas activos en Chile durante 2026.
+Este whitepaper reporta los resultados de una encuesta autoadministrada aplicada a veterinarios acuícolas activos en Chile y el mundo durante 2026.
 
 ---
 
@@ -56,7 +56,7 @@ _Por completar tras análisis. Los notebooks en `analysis/notebooks/` documentan
 
 ## 6. Agradecimientos
 
-A todos los veterinarios acuícolas que respondieron la encuesta. A MEVEA y COLMEVET por su apoyo en la difusión.
+A todos los colegas, amigos y veterinarios acuícolas que respondieron la encuesta. A *por confirmar* y *Por confirmar* por su apoyo en la difusión.
 
 ---
 
