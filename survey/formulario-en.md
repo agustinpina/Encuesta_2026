@@ -1,9 +1,9 @@
-# The dirty work of the Chilean aquaculture vet
+# The "dirty work" of the aquaculture veterinarians
 
-> Open survey & whitepaper · MEVEA / COLMEVET · 2026  
+> Open survey & whitepaper · 2026  
 > Tally form: [tally.so/r/obVLdb](https://tally.so/r/obVLdb)
 
-This survey aims to identify which tasks consume the time and energy of aquaculture vets, and which of them could — or could not — be delegated to AI tools. Results will be published as an open whitepaper and shared with MEVEA and COLMEVET.• Takes 8–10 minutes• Completely anonymous• No identifying data collected• You can skip any question you don't want to answerThank you for your time — your experience makes the difference.— Agustín · DVM, UChile
+This survey aims to identify which tasks consume the time and energy of aquaculture vets, and which of them could — or could not — be delegated to AI tools. Results will be published as an open whitepaper and shared trough LinkedIn.• Takes 8–10 minutes• Completely anonymous• No identifying data collected• You can skip any question you don't want to answerThank you for your time — your experience makes the difference.— Agustín
 
 ---
 
@@ -266,4 +266,4 @@ _[ email@example.com or WhatsApp +1 XXX XXX XXXX ]_
 
 # Thank you 🙏
 
-Your response has been saved.Once the results are analysed, the whitepaper will be published openly on my LinkedIn (Agustín — DVM, UChile) and shared with MEVEA and COLMEVET. If you'd like to know when it's out, send me a message on LinkedIn.Feel free to share the survey with other aquaculture vet colleagues if you find it useful.
+Your response has been saved.Once the results are analysed, the whitepaper will be published openly on my LinkedIn (Agustín). If you'd like to know when it's out, send me a message on LinkedIn.Feel free to share the survey with other aquaculture vet colleagues if you find it useful.
