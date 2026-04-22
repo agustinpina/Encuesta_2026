@@ -1,9 +1,9 @@
-# El trabajo sucio del veterinario acuícola chileno
+# El trabajo sucio del veterinario acuícola
 
-> Encuesta para whitepaper abierto · MEVEA / COLMEVET · 2026  
+> Encuesta para whitepaper abierto · 2026  
 > Formulario Tally: `q4EQX9` | Workspace: `wo0ejx` | 218 bloques
 
-Esta encuesta busca identificar qué tareas consumen tiempo y energía de los veterinarios acuícolas en Chile, y cuáles de ellas podrían (o no) delegarse a herramientas de IA.   Los resultados se publicarán como whitepaper abierto y se compartirán con MEVEA y COLMEVET.   • Toma 8–10 minutos  • Es completamente anónima  • No se recolectan datos identificatorios  • Puedes omitir cualquier pregunta que no quieras responder   Gracias por tu tiempo — tu experiencia hace la diferencia.   — Agustín (vet, UChile)
+Esta encuesta busca identificar qué tareas consumen tiempo y energía de los veterinarios acuícolas, y cuáles de ellas podrían (o no) delegarse a herramientas de IA.   Los resultados se publicarán como whitepaper abierto.   • Toma 8–10 minutos  • Es completamente anónima  • No se recolectan datos identificatorios  • Puedes omitir cualquier pregunta que no quieras responder   Gracias por tu tiempo — tu experiencia hace la diferencia.   — Agustín.
 
 
 ---
@@ -297,4 +297,4 @@ Este campo se guarda por separado del resto de tus respuestas.
 
 ## Gracias 🙏
 
-Tu respuesta ya está guardada.   Cuando termine de analizar los resultados, el whitepaper se publicará abierto en mi LinkedIn (Agustín — vet, UChile) y se compartirá con MEVEA y COLMEVET. Si quieres saber cuándo sale, escríbeme por LinkedIn.   Comparte la encuesta con otros colegas vet acuícolas si te parece útil.
+Tu respuesta ya está guardada.   Cuando termine de analizar los resultados, el whitepaper se publicará abierto en mi LinkedIn. Si quieres saber cuándo sale, escríbeme por LinkedIn.   Comparte la encuesta con otros colegas vet acuícolas si te parece útil.
