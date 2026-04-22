@@ -3,7 +3,7 @@
 > Open survey & whitepaper · 2026  
 > Tally form: [tally.so/r/obVLdb](https://tally.so/r/obVLdb)
 
-This survey aims to identify which tasks consume the time and energy of aquaculture vets, and which of them could — or could not — be delegated to AI tools. Results will be published as an open whitepaper and shared trough LinkedIn.• Takes 8–10 minutes• Completely anonymous• No identifying data collected• You can skip any question you don't want to answerThank you for your time — your experience makes the difference.— Agustín
+This survey is about mapping which tasks eat up the time and energy of aquaculture vets — and which could (or couldn't) be handed off to AI tools. Results will be published as an open whitepaper and shared trough LinkedIn.• Takes 8–10 minutes• Completely anonymous• No identifying data collected• You can skip any question you don't want to answerThank you for your time — your experience makes the difference.— Agustín.
 
 ---
 
@@ -28,13 +28,10 @@ This survey aims to identify which tasks consume the time and energy of aquacult
 - H) Other
 ---
 
-**3. Where do you mainly work? (Country / Region)**
-- A) Chile
-- B) Norway
-- C) Scotland / UK
-- D) Canada
-- E) Japan / Australia
-- F) Other
+**3. Which country and region do you mainly work in?**
+
+_[ e.g. Norway, Trøndelag ]_
+
 ---
 
 **4. How large is the company you work for?**
@@ -45,7 +42,22 @@ This survey aims to identify which tasks consume the time and energy of aquacult
 - E) Independent or academia
 ---
 
-**5. If an AI tool could take over ONE specific task from your job tomorrow, which would you choose?**
+**5. Which of the following systems or platforms do you use regularly in your work? Select all that apply.**
+
+- [ ] Fishtalk
+- [ ] AquaManager
+- [ ] Mercatus / other ERP
+- [ ] Excel / Google Sheets (own spreadsheets)
+- [ ] WhatsApp / messaging apps
+- [ ] Email as main data channel
+- [ ] SERNAPESCA platforms (SIBUYA, etc.)
+- [ ] Proprietary company platform
+- [ ] No formal system (pen and paper / memory)
+- [ ] Other (please specify)
+
+---
+
+**6. If an AI tool could take over ONE specific task from your job tomorrow, which would you choose?**
 Describe the task in as much detail as possible.
 
 _[ E.g.: drafting the weekly health report from the day's data… ]_
@@ -58,84 +70,84 @@ _[ E.g.: drafting the weekly health report from the day's data… ]_
 
 For each of the following tasks, indicate how many hours per week you dedicate to it on average.
 
-**6. Drafting routine technical reports**
+**7. Drafting routine technical reports**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**7. Consolidating scattered data**
+**8. Consolidating scattered data**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**8. Regulatory reports**
+**9. Regulatory reports**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**9. Treatment records and traceability**
+**10. Treatment records and traceability**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**10. Necropsies and photographic documentation of findings**
+**11. Necropsies and photographic documentation of findings**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**11. Routine sampling**
+**12. Routine sampling**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**12. Interpretation of laboratory results**
+**13. Interpretation of laboratory results**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**13. Reading scientific literature and technical updates**
+**14. Reading scientific literature and technical updates**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**14. Internal coordination meetings**
+**15. Internal coordination meetings**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**15. Communication with suppliers and input follow-up**
+**16. Communication with suppliers and input follow-up**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**16. Image review**
+**17. Image review**
   - 0h
   - Less than 2h
   - 2–5h
   - 5–10h
   - More than 10h
   - Not applicable to my role
-**17. Dose calculations, mixtures and biomasses for treatments**
+**18. Dose calculations, mixtures and biomasses for treatments**
   - 0h
   - Less than 2h
   - 2–5h
@@ -146,7 +158,7 @@ For each of the following tasks, indicate how many hours per week you dedicate t
 
 ## Part 3 · Value and friction
 
-**18. From those same tasks, which do you consider LOW professional value? (don't truly require your veterinary judgement) — Maximum 4**
+**19. From those same tasks, which do you consider LOW professional value? (don't really need your vet judgement) — Maximum 4**
 - A) Drafting routine technical reports (daily, weekly)
 - B) Consolidating scattered data (spreadsheets, platforms, emails)
 - C) Regulatory reports (health authority, environmental, sanitary)
@@ -161,7 +173,7 @@ For each of the following tasks, indicate how many hours per week you dedicate t
 - L) Dose calculations, mixtures and biomasses for treatments
 ---
 
-**19. Which ones cause you the most FRUSTRATION or mental fatigue? — Maximum 3**
+**20. Which ones cause you the most FRUSTRATION or mental fatigue? — Maximum 3**
 - A) Drafting routine technical reports (daily, weekly)
 - B) Consolidating scattered data (spreadsheets, platforms, emails)
 - C) Regulatory reports (health authority, environmental, sanitary)
@@ -178,7 +190,7 @@ For each of the following tasks, indicate how many hours per week you dedicate t
 
 ## Part 4 · AI in your practice
 
-**20. What is your current level of use of AI tools (ChatGPT, Claude, Copilot, etc.) in your work?**
+**21. What is your current level of use of AI tools (ChatGPT, Claude, Copilot, etc.) in your work?**
 - A) Daily
 - B) Weekly
 - C) Occasionally
@@ -186,12 +198,12 @@ For each of the following tasks, indicate how many hours per week you dedicate t
 - E) Never
 ---
 
-**21. Are there tasks that, even if tedious, you would NOT delegate to an AI? Which ones and why?**
+**22. Are there tasks that, even if tedious, you would NOT delegate to an AI? Which ones and why?**
 _[ E.g.: necropsies — reading histology lesions requires real judgement that I wouldn't trust a machine with… ]_
 
 ---
 
-**22. What is your main concern about using AI in veterinary work?**
+**23. What is your main concern about using AI in veterinary work?**
 - A) I don't trust the technical accuracy
 - B) Ethical or animal welfare concerns
 - C) Company data confidentiality
@@ -203,7 +215,7 @@ _[ E.g.: necropsies — reading histology lesions requires real judgement that I
 
 ## Pause · A different question
 
-**23. If your job were a movie, what would the title be?**
+**24. If your job were a movie, what would the title be?**
 Can be drama, comedy, horror — whatever you feel. This question is here for a bit of fun halfway through the survey.
 
 _[ E.g.: "Lord of the Reports" or "Caligus: Awakening" ]_
@@ -212,7 +224,7 @@ _[ E.g.: "Lord of the Reports" or "Caligus: Awakening" ]_
 
 ## Part 5 · Economic impact
 
-**24. Thinking about the tasks you marked as 'low professional value', what percentage of your weekly working time do you estimate you spend on them?**
+**25. Thinking about the tasks you marked as 'low professional value', what percentage of your weekly working time do you estimate you spend on them?**
 - A) Less than 10%
 - B) 10–25%
 - C) 25–40%
@@ -220,18 +232,19 @@ _[ E.g.: "Lord of the Reports" or "Caligus: Awakening" ]_
 - E) More than 60%
 ---
 
-**25. Monthly net salary range**
-This question is used only to estimate the aggregate opportunity cost for the profession. Responses are not reported or analysed individually.
+**26. Monthly net salary range**
+This question is used only to estimate the aggregate opportunity cost for the profession. Responses are not reported or analysed individually. Ranges are approximate and in USD for reference only.
 
 - A) Less than USD 1,500/month
 - B) USD 1,500 – 2,500/month
 - C) USD 2,500 – 4,000/month
 - D) USD 4,000 – 6,000/month
-- E) More than USD 6,000/month
-- F) Prefer not to answer
+- E) USD 6,000 – 10,000/month
+- F) More than USD 10,000/month
+- G) Prefer not to answer
 ---
 
-**26. If your company had a budget to adopt ONE tool that addresses your biggest operational pain, how much do you think it would be willing to pay per user per month?**
+**27. If your company had a budget to adopt ONE tool that addresses your biggest operational pain, how much do you think it would be willing to pay per user per month?**
 - A) Less than USD 20
 - B) USD 20–50
 - C) USD 50–100
@@ -242,7 +255,7 @@ This question is used only to estimate the aggregate opportunity cost for the pr
 
 ## Part 6 · Narrative closure
 
-**27. Describe a recent workday when you felt your veterinary training was wasted on tasks that didn't require it.**
+**28. Describe a recent workday where your vet training was wasted on stuff that didn't need it.**
 A concrete scene is worth more than a thousand general opinions. Anonymous.
 
 _[ E.g.: I spent 4 hours filling out regulatory compliance forms for a routine treatment that took 20 minutes to actually perform… ]_
@@ -251,13 +264,13 @@ _[ E.g.: I spent 4 hours filling out regulatory compliance forms for a routine t
 
 ## Follow-up (optional)
 
-**28. Would you be willing to do a 20-minute follow-up interview?**
+**29. Would you be willing to do a 20-minute follow-up interview?**
 - A) Yes
 - B) No
 - C) Maybe, depends on the topic
 ---
 
-**29. If you answered Yes or Maybe, leave an email or WhatsApp where I can reach you**
+**30. If you answered Yes or Maybe, leave an email or WhatsApp where I can reach you**
 This field is stored separately from your other responses.
 
 _[ email@example.com or WhatsApp +1 XXX XXX XXXX ]_
@@ -266,4 +279,4 @@ _[ email@example.com or WhatsApp +1 XXX XXX XXXX ]_
 
 # Thank you 🙏
 
-Your response has been saved.Once the results are analysed, the whitepaper will be published openly on my LinkedIn (Agustín). If you'd like to know when it's out, send me a message on LinkedIn.Feel free to share the survey with other aquaculture vet colleagues if you find it useful.
+Your response has been saved. Once I've gone through the results, the whitepaper will be out in the open on my LinkedIn (Agustín — DVM, UChile) and shared with MEVEA and COLMEVET. If you'd like to know when it's out, send me a message on LinkedIn. Feel free to share the survey with other aquaculture vet colleagues if you find it useful.

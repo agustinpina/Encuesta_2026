@@ -1,7 +1,7 @@
 # El trabajo sucio del veterinario acuícola
 
 > Encuesta para whitepaper abierto · 2026  
-> Formulario Tally: `q4EQX9` | Workspace: `wo0ejx` | 218 bloques
+> Formulario Tally: `q4EQX9` | Workspace: `wo0ejx` | 230 bloques
 
 Esta encuesta busca identificar qué tareas consumen tiempo y energía de los veterinarios acuícolas, y cuáles de ellas podrían (o no) delegarse a herramientas de IA.   Los resultados se publicarán como whitepaper abierto.   • Toma 8–10 minutos  • Es completamente anónima  • No se recolectan datos identificatorios  • Puedes omitir cualquier pregunta que no quieras responder   Gracias por tu tiempo — tu experiencia hace la diferencia.   — Agustín.
 
@@ -54,7 +54,23 @@ Esta encuesta busca identificar qué tareas consumen tiempo y energía de los ve
 ---
 
 
-**5. Si mañana apareciera una herramienta de IA capaz de hacerse cargo de UNA tarea específica de tu trabajo, ¿cuál elegirías?**
+**5. ¿Qué sistemas o plataformas usas regularmente en tu trabajo? Selecciona todos los que apliquen.**
+
+- [ ] Fishtalk
+- [ ] AquaManager
+- [ ] Mercatus / otro ERP
+- [ ] Excel / Google Sheets (planillas propias)
+- [ ] WhatsApp / mensajería
+- [ ] Correo electrónico como canal principal de datos
+- [ ] Plataformas SERNAPESCA (SIBUYA, etc.)
+- [ ] Plataforma propia de la empresa
+- [ ] Ningún sistema formal (papel / memoria)
+- [ ] Otro (especificar)
+
+---
+
+
+**6. Si mañana apareciera una herramienta de IA capaz de hacerse cargo de UNA tarea específica de tu trabajo, ¿cuál elegirías?**
 Describe la tarea con el mayor detalle posible.
 
 *[Respuesta larga: Ej: redactar el informe sanitario semanal a partir de los datos del día…]*
@@ -67,7 +83,7 @@ Describe la tarea con el mayor detalle posible.
 De las siguientes tareas, indica cuántas horas a la semana le dedicas en promedio.
 
 
-**6. Redacción de informes técnicos rutinarios**
+**7. Redacción de informes técnicos rutinarios**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -75,7 +91,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**7. Consolidación de datos dispersos**
+**8. Consolidación de datos dispersos**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -83,7 +99,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**8. Reportes regulatorios**
+**9. Reportes regulatorios**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -91,7 +107,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**9. Registros de tratamientos y trazabilidad**
+**10. Registros de tratamientos y trazabilidad**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -99,7 +115,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**10. Necropsias y registro fotográfico de hallazgos**
+**11. Necropsias y registro fotográfico de hallazgos**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -107,7 +123,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**11. Muestreos de rutina**
+**12. Muestreos de rutina**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -115,7 +131,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**12. Interpretación de resultados de laboratorio**
+**13. Interpretación de resultados de laboratorio**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -123,7 +139,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**13. Lectura de literatura científica y actualización técnica**
+**14. Lectura de literatura científica y actualización técnica**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -131,7 +147,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**14. Reuniones internas de coordinación**
+**15. Reuniones internas de coordinación**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -139,7 +155,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**15. Comunicación con proveedores y seguimiento de insumos**
+**16. Comunicación con proveedores y seguimiento de insumos**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -147,7 +163,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**16. Revisión de imágenes**
+**17. Revisión de imágenes**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -155,7 +171,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 - E) Más de 10h
 - F) No aplica a mi rol
 
-**17. Cálculo de dosis, mezclas y biomasas para tratamientos**
+**18. Cálculo de dosis, mezclas y biomasas para tratamientos**
 - A) 0h
 - B) Menos de 2h
 - C) 2–5h
@@ -166,7 +182,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 ---
 
 
-**18. De esas mismas tareas, ¿cuáles consideras de BAJO valor profesional? (no requieren realmente tu criterio veterinario) — Máximo 4**
+**19. De esas mismas tareas, ¿cuáles consideras de BAJO valor profesional? (no requieren realmente tu criterio veterinario) — Máximo 4**
 - [ ] Redacción de informes técnicos rutinarios (diarios, semanales)
 - [ ] Consolidación de datos dispersos (planillas, plataformas, correos)
 - [ ] Reportes regulatorios (SERNAPESCA, ambientales, sanitarios)
@@ -183,7 +199,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 ---
 
 
-**19. ¿Y cuáles te generan más FRUSTRACIÓN o cansancio mental? — Máximo 3**
+**20. ¿Y cuáles te generan más FRUSTRACIÓN o cansancio mental? — Máximo 3**
 - [ ] Redacción de informes técnicos rutinarios (diarios, semanales)
 - [ ] Consolidación de datos dispersos (planillas, plataformas, correos)
 - [ ] Reportes regulatorios (SERNAPESCA, ambientales, sanitarios)
@@ -200,7 +216,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 ---
 
 
-**20. ¿Cuál es tu nivel actual de uso de herramientas de IA (ChatGPT, Claude, Copilot, etc.) en tu trabajo?**
+**21. ¿Cuál es tu nivel actual de uso de herramientas de IA (ChatGPT, Claude, Copilot, etc.) en tu trabajo?**
 - A) Diario
 - B) Semanal
 - C) Ocasional
@@ -210,13 +226,13 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 ---
 
 
-**21. ¿Hay tareas que, aunque sean tediosas, NO delegarías a una IA? ¿Cuáles y por qué?**
+**22. ¿Hay tareas que, aunque sean tediosas, NO delegarías a una IA? ¿Cuáles y por qué?**
 *[Respuesta larga]*
 
 ---
 
 
-**22. ¿Cuál es tu principal reserva frente al uso de IA en el trabajo veterinario?**
+**23. ¿Cuál es tu principal reserva frente al uso de IA en el trabajo veterinario?**
 - A) Desconfío de la precisión técnica
 - B) Temas éticos o de bienestar animal
 - C) Confidencialidad de datos de la empresa
@@ -228,7 +244,7 @@ De las siguientes tareas, indica cuántas horas a la semana le dedicas en promed
 ---
 
 
-**23. Si tu trabajo fuera una película, ¿cuál sería el título?**
+**24. Si tu trabajo fuera una película, ¿cuál sería el título?**
 Puede ser drama, comedia, terror, lo que sientas. Esta pregunta es para reírnos un poco a mitad de la encuesta.
 
 *[Texto corto: Ej: "El señor de los informes" o "Cáligus: el despertar"]*
@@ -236,7 +252,7 @@ Puede ser drama, comedia, terror, lo que sientas. Esta pregunta es para reírnos
 ---
 
 
-**24. Pensando en las tareas que marcaste como “bajo valor profesional”, ¿qué porcentaje estimas de tu jornada semanal dedicas a ellas?**
+**25. Pensando en las tareas que marcaste como "bajo valor profesional", ¿qué porcentaje estimas de tu jornada semanal dedicas a ellas?**
 - A) Menos del 10%
 - B) 10–25%
 - C) 25–40%
@@ -246,7 +262,7 @@ Puede ser drama, comedia, terror, lo que sientas. Esta pregunta es para reírnos
 ---
 
 
-**25. Tramo de renta líquida mensual**
+**26. Tramo de renta líquida mensual**
 Esta pregunta se usa solo para estimar el costo de oportunidad agregado del gremio. No se reporta ni analiza individualmente.
 
 - A) Menos de $1.500.000
@@ -259,7 +275,7 @@ Esta pregunta se usa solo para estimar el costo de oportunidad agregado del grem
 ---
 
 
-**26. Si tu empresa te diera presupuesto para adoptar UNA herramienta que resuelva tu mayor dolor operativo, ¿cuánto crees que estaría dispuesta a pagar mensualmente por usuario?**
+**27. Si tu empresa te diera presupuesto para adoptar UNA herramienta que resuelva tu mayor dolor operativo, ¿cuánto crees que estaría dispuesta a pagar mensualmente por usuario?**
 - A) Menos de USD 20
 - B) USD 20–50
 - C) USD 50–100
@@ -270,7 +286,7 @@ Esta pregunta se usa solo para estimar el costo de oportunidad agregado del grem
 ---
 
 
-**27. Describe un día reciente de trabajo en el que hayas sentido que desperdiciaste tu formación veterinaria haciendo tareas que no la requerían.**
+**28. Describe un día reciente de trabajo en el que hayas sentido que desperdiciaste tu formación veterinaria haciendo tareas que no la requerían.**
 Una escena concreta vale más que mil opiniones generales. Anónimo.
 
 *[Respuesta larga]*
@@ -278,7 +294,7 @@ Una escena concreta vale más que mil opiniones generales. Anónimo.
 ---
 
 
-**28. ¿Estarías dispuesto/a a una entrevista de seguimiento de 20 minutos?**
+**29. ¿Estarías dispuesto/a a una entrevista de seguimiento de 20 minutos?**
 - A) Sí
 - B) No
 - C) Tal vez, depende del tema
@@ -287,7 +303,7 @@ Una escena concreta vale más que mil opiniones generales. Anónimo.
 ---
 
 
-**29. Si respondiste Sí o Tal vez, déjame un email o WhatsApp donde contactarte**
+**30. Si respondiste Sí o Tal vez, déjame un email o WhatsApp donde contactarte**
 Este campo se guarda por separado del resto de tus respuestas.
 
 *[Texto corto: email@ejemplo.com o +56 9 XXXX XXXX]*
@@ -297,4 +313,4 @@ Este campo se guarda por separado del resto de tus respuestas.
 
 ## Gracias 🙏
 
-Tu respuesta ya está guardada.   Cuando termine de analizar los resultados, el whitepaper se publicará abierto en mi LinkedIn. Si quieres saber cuándo sale, escríbeme por LinkedIn.   Comparte la encuesta con otros colegas vet acuícolas si te parece útil.
+Tu respuesta ya está guardada.   Cuando termine de analizar los resultados, el whitepaper se publicará abierto en mi LinkedIn (Agustín — vet, UChile) y se compartirá con MEVEA y COLMEVET. Si quieres saber cuándo sale, escríbeme por LinkedIn.   Comparte la encuesta con otros colegas vet acuícolas si te parece útil.
