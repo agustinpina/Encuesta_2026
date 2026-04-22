@@ -1,8 +1,8 @@
-# El trabajo sucio del veterinario acuícola chileno
+# El "trabajo sucio" del veterinario acuícola
 
-> Open survey & whitepaper — AI-delegable tasks in Chilean aquaculture veterinary practice
+> Open survey & whitepaper — AI-delegable tasks in aquaculture veterinary practice
 
-Esta encuesta busca mapear qué tareas consumen el tiempo y la energía de los veterinarios acuícolas en Chile, y cuáles de ellas podrían —o no— delegarse a herramientas de IA. Los resultados se publicarán como whitepaper abierto.
+Esta encuesta busca mapear qué tareas consumen el tiempo y la energía de los veterinarios acuícolas en Chile y el mundo, y cuáles de ellas podrían —o no— delegarse a herramientas de IA. Los resultados se publicarán como whitepaper abierto.
 
 ## Estado actual
 
@@ -12,7 +12,7 @@ Esta encuesta busca mapear qué tareas consumen el tiempo y la energía de los v
 
 | Idioma | Enlace |
 |---|---|
-| Español (Chile) | [tally.so/r/q4EQX9](https://tally.so/r/q4EQX9) |
+| Español | [tally.so/r/q4EQX9](https://tally.so/r/q4EQX9) |
 | English | [tally.so/r/obVLdb](https://tally.so/r/obVLdb) |
 
 La encuesta toma 8–10 minutos, es anónima y no recolecta datos identificatorios.
@@ -45,8 +45,8 @@ Copia `.env.example` a `.env` y añade tu `TALLY_API_KEY` para usar `analysis/sc
 ## Citar este trabajo
 
 ```
-Piña, A. (2026). El trabajo sucio del veterinario acuícola chileno:
-tareas delegables a IA. Whitepaper abierto. Universidad de Chile.
+Piña, A. (2026). El trabajo sucio del veterinario acuícola:
+tareas delegables a IA. Whitepaper abierto.
 https://github.com/agustinpina/Encuesta_2026
 ```
 
